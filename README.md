@@ -33,7 +33,7 @@ A web-based registration form with real-time validation and interactive features
 
 ## Deployment URL
 
-[https://ujjwalgarg100204.github.io/worldline-level-1-webfundamentals-daily-task-4/]
+[https://gargujjwal.github.io/worldline-level-1-webfundamentals-daily-task-4/]
 
 ## Author
 
